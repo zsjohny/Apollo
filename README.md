@@ -1,4 +1,4 @@
-# apollo
+# Apollo
 
 
 [![License](http://img.shields.io/badge/license-apache%20v2-blue.svg)](https://github.com/KubeOperatpr/KubeOperatpr/blob/master/LICENSE)
